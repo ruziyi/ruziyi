@@ -1,1 +1,79 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经验","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"个人评价"},"avatar":{"src":"https://avatars.githubusercontent.com/u/15646325?v=4","hidden":false,"shape":"circle"},"profile":{"name":"李小艳","email":"375416941@qq.com","mobile":" 15515899555","github":"","zhihu":"","workExpYear":"","positionTitle":"就业老师"},"educationList":[{"edu_time":["2014.09.01","2018.06.30"],"school":"华南理工大学","major":"网络工程","academic_degree":"本科"}],"awardList":[{"award_info":"英语 CET6","award_time":"2015"},{"award_info":"蚂蚁近卫军 卓越个人奖","award_time":"2018.09"},{"award_info":"前端练习生 可视化讲师","award_time":"2020.10"},{"award_info":"前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”","award_time":"2021.07"}],"workExpList":[{"company_name":"郑州万通汽车职业培训学校","department_name":"创就业","work_time":["2017.08","至今"],"work_desc":"1. 负责开拓和维护学生的就业渠道。\n2. 负责学生就业推荐。\n3. 负责讲授职业素养课程(职业规划、制作简历、面试技巧、职场礼仪、⻩金心态等)。\n4. 负责所带班级学生的上课出勤监督统计，班级建设及学员活动，定期对学生家长进行回访、沟通。","dataIndex":0},{"company_name":"河南象聚实业有限公司","department_name":"智慧魔方","work_time":["2014.02","2017.06"],"work_desc":"1. 客服日常工作安排。\n2. 解决客户问题。\n3. 对员工进行心理疏导。","dataIndex":1}],"skillList":[],"projectList":[],"workList":[],"aboutme":{"aboutme_desc":"有责任心工作热情。\n沟通能力强。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://s1.locimg.com/2023/06/05/898e62d83e710.jpeg",
+        "hidden": false,
+        "shape": "circle"
+    },
+    "profile": {
+        "name": "李小艳",
+        "email": "375416941@qq.com",
+        "mobile": " 15515899555",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+        "positionTitle": "就业老师"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2005.09.01",
+                "2009.06.30"
+            ],
+            "school": "西安外事学院",
+            "major": "市场营销",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [
+        {
+            "company_name": "郑州万通汽车职业培训学校",
+            "department_name": "创就业",
+            "work_time": [
+                "2017.08",
+                "至今"
+            ],
+            "work_desc": "1. 负责开拓和维护学生的就业渠道。\n2. 负责学生就业推荐。\n3. 负责讲授职业素养课程(职业规划、制作简历、面试技巧、职场礼仪、⻩金心态等)。\n4. 负责所带班级学生的上课出勤监督统计，班级建设及学员活动，定期对学生家长进行回访、沟通。",
+            "dataIndex": 0
+        },
+        {
+            "work_time": [
+                "2017.08",
+                "2019"
+            ],
+            "company_name": "郑州万通汽车职业培训学校",
+            "department_name": "行政人事处",
+            "work_desc": "1. 负责人事招聘培训工作负责会议纪要。\n2. 通告文件撰写。\n3. 档案管理及其他行政工作。"
+        },
+        {
+            "company_name": "河南象聚实业有限公司",
+            "department_name": "智慧魔方",
+            "work_time": [
+                "2014.02",
+                "2017.06"
+            ],
+            "work_desc": "1. 客服日常工作安排。\n2. 解决客户问题。\n3. 对员工进行心理疏导。",
+            "dataIndex": 1
+        }
+    ],
+    "skillList": [],
+    "projectList": [],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "我相信自己是一位勤奋、聪明且富有创造力和热情的人，已在各种工作环境中获得了丰富的经验。\n在团队合作、沟通和解决问题方面，我有着非常丰富的经验，能够有效协调工作并提供支持和指导，以完成共同的目标。\n同时，我也具备独立思考和解决问题的能力，能够在面对挑战和难题时始终保持冷静和专业的态度，寻找创新的解决方案。\n我非常注重效率和质量，并能够灵活应对工作变化，适应不同的工作环境。\n最重要的是，我有领导和管理经验，并具有卓越的团队管理能力，可以为未来的公司和团队带来轻松、高效和成功。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
